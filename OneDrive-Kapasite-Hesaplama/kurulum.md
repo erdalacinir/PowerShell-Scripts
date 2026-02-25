@@ -3,7 +3,6 @@ Microsoft 365 Global Administrator veya Application Administrator rolü
 Azure Portal erişimi: https://portal.azure.com
 
 Adım 1: Azure Active Directory'e Git
-
 https://portal.azure.com adresine giriş yap
 Microsoft Entra ID uygulamasını seç
 Sol panelden App registrations tıkla
