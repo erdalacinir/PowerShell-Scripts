@@ -40,7 +40,7 @@ Adım 6: Admin Consent Ver
 İzinler eklendikten sonra yeşil tik görmüyorsan:
 API permissions sayfasında Grant admin consent for [şirket adı] butonuna tıkla
 Onay isteğini kabul et
-Tüm izinlerin yanında yeşil tik ✅ görünmeli
+Tüm izinlerin yanında yeşil tik görünmeli
 Bu adım olmadan script Access Denied hatası verir.
 
 Adım 7: Script Ayarlarını Doldur
